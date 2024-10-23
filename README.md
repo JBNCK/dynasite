@@ -1,2 +1,2 @@
 # dynasite
-Editor for the dynamic content on my website
+Internal tool for editing the dynamic content on my website
